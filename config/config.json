@@ -1,0 +1,40 @@
+{
+	"AddVoicesToBots": {
+		"assault": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Bandit_1"
+			]
+		},
+		"cursedassault": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Bandit_1"
+			]
+		},
+		"marksman": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Bandit_1"
+			]
+		},
+		"bosskojaniy": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"Freedom_1"
+			]
+		},
+		"followerkojaniy": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"Stalker_2"
+			]
+		},
+		"BotName": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"VoiceId"
+			]
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"manifest": [
+		{
+			"key": "assets/content/audio/phrases/monolith_3_sound.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/audio/phrases/monolith_3_voice.bundle",
+			"dependencyKeys": [
+				"assets/content/audio/phrases/monolith_3_sound.bundle"
+			]
+		},
+		{
+			"key": "assets/content/audio/phrases/bandit_1_audio.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/audio/phrases/bandit_1_voice.bundle",
+			"dependencyKeys": [
+				"assets/content/audio/phrases/bandit_1_audio.bundle"
+			]
+		},
+		{
+			"key": "assets/content/audio/phrases/freedom_1_sound.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/audio/phrases/freedom_1_voice.bundle",
+			"dependencyKeys": [
+				"assets/content/audio/phrases/freedom_1_sound.bundle"
+			]
+		},
+		{
+			"key": "assets/content/audio/phrases/stalker_2_sound.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/audio/phrases/stalker_2_voice.bundle",
+			"dependencyKeys": [
+				"assets/content/audio/phrases/stalker_2_sound.bundle"
+			]
+		}
+	]
+}
