@@ -8,6 +8,8 @@ class StalkerVoices
 		StalkerVoices.makeVoice("Bandit_1")
 		StalkerVoices.makeVoice("Freedom_1")
 		StalkerVoices.makeVoice("Stalker_2")
+		StalkerVoices.makeVoice("ClearSky_1")
+		StalkerVoices.makeVoice("Duty_1")
 	}
 	
 	static makeVoice(voiceId)

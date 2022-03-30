@@ -30,6 +30,36 @@
 				"Stalker_2"
 			]
 		},
+		"followergluharsecurity": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"ClearSky_1"
+			]
+		},
+		"followergluharassault": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"ClearSky_1"
+			]
+		},
+		"followergluharscout": {
+			"ReplaceDefaultOnes": true,
+			"AddFollowingVoices": [
+				"ClearSky_1"
+			]
+		},
+		"bear": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Duty_1"
+			]
+		},
+		"test": {
+			"ReplaceDefaultOnes": false,
+			"AddFollowingVoices": [
+				"Duty_1"
+			]
+		},
 		"BotName": {
 			"ReplaceDefaultOnes": false,
 			"AddFollowingVoices": [

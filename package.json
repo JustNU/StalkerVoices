@@ -1,7 +1,7 @@
 {
 	"name": "Stalker Voices",
 	"author": "JustNU,CWX",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"license": "MIT",
 	"main": "package.js",
 	"akiVersion": "2.2.*"
