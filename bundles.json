@@ -11,13 +11,13 @@
 			]
 		},
 		{
-			"key": "StalkerVoices/Audio/bandit_1_audio.bundle",
+			"key": "StalkerVoices/Audio/stalker_bandit_1_audio.bundle",
 			"dependencyKeys": []
 		},
 		{
-			"key": "StalkerVoices/Voices/bandit_1_voice.bundle",
+			"key": "StalkerVoices/Voices/stalker_bandit_1_voice.bundle",
 			"dependencyKeys": [
-				"StalkerVoices/Audio/bandit_1_audio.bundle"
+				"StalkerVoices/Audio/stalker_bandit_1_audio.bundle"
 			]
 		},
 		{

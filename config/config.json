@@ -3,19 +3,19 @@
 		"assault": {
 			"ReplaceDefaultOnes": false,
 			"AddFollowingVoices": [
-				"Bandit_1"
+				"Stalker_Bandit_1"
 			]
 		},
 		"cursedassault": {
 			"ReplaceDefaultOnes": false,
 			"AddFollowingVoices": [
-				"Bandit_1"
+				"Stalker_Bandit_1"
 			]
 		},
 		"marksman": {
 			"ReplaceDefaultOnes": false,
 			"AddFollowingVoices": [
-				"Bandit_1"
+				"Stalker_Bandit_1"
 			]
 		},
 		"bosskojaniy": {

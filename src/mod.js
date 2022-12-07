@@ -7,8 +7,8 @@ class Mod
 		const logger = container.resolve("WinstonLogger");
 		const database = container.resolve("DatabaseServer").getTables();
 		
+		Mod.makeVoice("Stalker_Bandit_1", logger, database);
 		Mod.makeVoice("Monolith_3", logger, database);
-		Mod.makeVoice("Bandit_1", logger, database);
 		Mod.makeVoice("Freedom_1", logger, database);
 		Mod.makeVoice("Stalker_2", logger, database);
 		Mod.makeVoice("ClearSky_1", logger, database);
