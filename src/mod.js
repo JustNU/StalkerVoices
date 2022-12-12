@@ -64,8 +64,6 @@ class Mod
 						for (const voiceIndex in config.AddVoicesToBots[botInConfig].AddFollowingVoices) {
 							database.bots.types[botInDb].appearance.voice.push(config.AddVoicesToBots[botInConfig].AddFollowingVoices[voiceIndex])
 						};
-						
-						//Logger.log(botInConfig)
 					};
 				};
 			};
