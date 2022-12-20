@@ -36,20 +36,14 @@ class Mod
 			}
 		};
 		
-		// add new voice to customization and chharacter
+		// add new voice to customization and character
 		database.templates.customization[voiceId] = newVoice;
 		database.templates.character.push(voiceId);
 		
 		// locale
 		for (const localeID in database.locales.global)
         {
-			const newLocale = {
-				"Name": locale[voiceId],
-				"ShortName": locale[voiceId],
-				"Description": locale[voiceId]
-			};
-			
-			database.locales.global[localeID].customization[voiceId] = newLocale;
+			database.locales.global[localeID][`${voiceId} Name`] = locale[voiceId];
         };
 		
 		// add to bots
