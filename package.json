@@ -4,6 +4,6 @@
 	"version": "0.2.2",
 	"license": "Unlicense",
 	"main": "src/mod.js",
-	"akiVersion": "3.6.*",
+	"akiVersion": "3.7.*",
 	"isBundleMod": true
 }
